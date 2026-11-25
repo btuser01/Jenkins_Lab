@@ -1,2 +1,3 @@
-date
-time 
+date /t
+time /t
+dir
