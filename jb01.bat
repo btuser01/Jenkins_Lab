@@ -1,2 +1,2 @@
-date /t
-dir
+date
+ls
